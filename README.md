@@ -62,7 +62,7 @@ complete its task cycle, and avoid the opposing robot.
 
 **Localization with ArUco markers.** We studied locating the robot by reading the black-and-white
 ArUco markers placed on the playing area, to correct the drift caused by slip. We eventually gave up
-on this approach. [Add the reason if you remember it, for example complexity, time or hardware.]
+on this approach. Not pursued due to lack of time
 
 ## What I learned
 
