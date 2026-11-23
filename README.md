@@ -11,7 +11,7 @@ scoring tasks against an opponent within a time-limited match.
 In the 2022 edition (theme: archaeology), each team had to build a robot able to:
 
 - collect the team's **statuette** from its pedestal,
-- place it in a **display cabinet** that lights up when the statuette is deposited,
+- place it in a **display cabinet** that react when the statuette is deposited,
 - swap it with the official **replica** (a wooden cube) on the pedestal,
 - **avoid the opposing robot** throughout, since an avoidance system is mandatory.
 
@@ -34,7 +34,7 @@ outputs in the code.
 ### Statuette and display cabinet
 Both were modeled in SolidWorks to the dimensional limits in the rules. On deposit, the statuette
 closes an electrical circuit that powers LEDs on the cabinet, which satisfies the rule requiring a
-luminous element activated by the statuette being placed.
+reaction from it activated by the statuette being placed.
 
 ### Lidar cover
 The Lidar position inherited from the earlier work of second-year students did not account for the
